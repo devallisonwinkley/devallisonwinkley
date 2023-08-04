@@ -1,4 +1,4 @@
-<h1>Hello, World! My name is <u>Allison Winkley</u> and I am a Full-Stack Web Developer.</h1>
+<h1>My name is <u>Allison Winkley</u> and I am a Full-Stack Web Developer.</h1>
 
 
 <h3> 🌐 Connect with me:</h3>
