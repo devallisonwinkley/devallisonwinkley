@@ -1,7 +1,7 @@
-<h2>Hello, World! My name is Allison and I am a Full-Stack Web Developer.</h2>
+<h1>Hello, World! My name is <u>Allison Winkley</u> and I am a Full-Stack Web Developer.</h1>
 
 
-<h4> 🌐 Connect with me:</h4>
+<h3> 🌐 Connect with me:</h3>
 
 [<img align="left" alt="Allison Winkley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Allison Winkley | UpWork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
